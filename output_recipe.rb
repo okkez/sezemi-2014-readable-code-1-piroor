@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 def main
-  p "Omuraisu"
+  puts "Omuraisu"
 end
 
 main
