@@ -13,3 +13,10 @@ If you cannot run the script, rewrite the first line to:
     #!/bin/env ruby
 
 or something.
+
+データファイル
+=============
+
+一行に一つレシピを書いたテキストファイルです。
+
+
