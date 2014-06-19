@@ -1,7 +1,7 @@
 #!/usr/bin/ruby
 
 def main
-  puts "Omuraisu"
+  puts ARGF.read
 end
 
 main
